@@ -15,7 +15,7 @@ Learn **barebones PyTorch** with **synthetic fNIRS** signals. You will:
 ```bash
 # create a GitHub repo named fnirs-torch-starter first (on github.com)
 # then on your laptop:
-git clone https://github.com/<YOUR_USERNAME>/fnirs-torch-starter.git
+git clone https://github.com/xveqc3204/fnirs-torch-starter.git
 cd fnirs-torch-starter
 ```
 
